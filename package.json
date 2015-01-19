@@ -1,0 +1,12 @@
+{
+  "name": "msp-bus-live",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.11.x"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "express": "~4.11.0",
+    "mongodb": "~1.4.28"
+  }
+}
